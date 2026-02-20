@@ -6,4 +6,5 @@ class Colors {
   static const blasss = Color(0xffffffff);
   static const blSsss = Color(0xffffffff);
   static const bkjhh = Color(0xffffffff);
+  static const bksh = Color(0xffffffff);
 }
